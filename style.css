@@ -1,0 +1,11 @@
+.nav{
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+.nav a{
+    padding: 10px;
+}
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
